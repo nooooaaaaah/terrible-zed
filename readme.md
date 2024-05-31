@@ -1,4 +1,4 @@
-![go example](https://imgur.com/5A4C0y2)
+![go example](https://i.imgur.com/5A4C0y2.png)
 
 # My Theme for Zed
 
