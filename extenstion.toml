@@ -1,0 +1,7 @@
+id = "terrible"
+name = "Terrible"
+version = "0.0.1"
+schema_version = 1
+authors = ["Nooooaaaaah <nspielman96@gmail.com>"]
+description = "A terrible theme for zed"
+repository = "https://github.com/nooooaaaaah/terrible-zed"
