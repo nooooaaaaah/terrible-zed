@@ -16,10 +16,7 @@ My Theme is a custom theme for the Zed editor, providing a visually appealing an
 
 To install My Theme in the Zed editor, follow these steps:
 
-1. **Download the Theme Package**
-   - Download the theme package from the [release page](#).
-
-2. **Install the Theme**
+1. **Install the Theme**
    - Open Zed.
    - Press `cmd+shift+p` to open the command palette.
    - Select `zed: install  extension` and choose terrible-theme extracted the theme package.
