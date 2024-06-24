@@ -1,6 +1,6 @@
 id = "terrible-theme"
 name = "Terrible Theme"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["Nooooaaaaah <nspielman96@gmail.com>"]
 description = "A terrible theme for zed"
