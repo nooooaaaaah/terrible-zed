@@ -43,7 +43,7 @@
         "tab_bar.background": "#081411",
         "tab.inactive_background": "#081411",
         "tab.active_background": "#3e4451",
-        "search.match_background": "#528bff",
+        "search.match_background": "#73a2ff",
         "panel.background": "#081411",
         "panel.focused_border": "#081411",
         "pane.focused_border": "#081411",
@@ -244,27 +244,27 @@
             "font_weight": null
           },
           "string": {
-            "color": "#e5c76d",
+            "color": "#594403",
             "font_style": null,
             "font_weight": 400
           },
           "string.escape": {
-            "color": "#f5d575",
+            "color": "#594403",
             "font_style": null,
             "font_weight": null
           },
           "string.regex": {
-            "color": "#fbda78",
+            "color": "#594403",
             "font_style": null,
             "font_weight": null
           },
           "string.special": {
-            "color": "#fbcd78",
+            "color": "#594403",
             "font_style": null,
             "font_weight": 600
           },
           "string.special.symbol": {
-            "color": "#fbb778",
+            "color": "#594403",
             "font_style": null,
             "font_weight": 700
           },
