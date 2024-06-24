@@ -43,11 +43,11 @@
         "tab_bar.background": "#081411",
         "tab.inactive_background": "#081411",
         "tab.active_background": "#3e4451",
-        "search.match_background": "#73a2ff",
+        "search.match_background": "#e9ecf2",
         "panel.background": "#081411",
         "panel.focused_border": "#081411",
         "pane.focused_border": "#081411",
-        "scrollbar_thumb.background": "#40474f",
+        "scrollbar.thumb.background": "#40474f",
         "scrollbar.thumb.hover_background": "#40474f",
         "scrollbar.thumb.border": "#40474f",
         "scrollbar.track.background": "#081411",
@@ -176,7 +176,7 @@
           "emphasis.strong": {
             "color": "#1ED0BF",
             "font_style": "oblique",
-            "font_weight": 900
+            "font_weight": 600
           },
           "function": {
             "color": "#5aacc4",
@@ -355,7 +355,7 @@
         "ghost_element.active": "#e1e4e8",
         "ghost_element.selected": "#dce4ec",
         "ghost_element.disabled": "#d3d7dc",
-        "text": "#2c2f33",
+        "text": "#121314",
         "text.muted": "#828997",
         "text.placeholder": "#5c6370",
         "text.disabled": "#4b5263",
@@ -371,7 +371,7 @@
         "tab_bar.background": "#FFFFFF",
         "tab.inactive_background": "#FFFFFF",
         "tab.active_background": "#cad2db",
-        "search.match_background": "#528bff",
+        "search.match_background": "#9ba9c4",
         "panel.background": "#FFFFFF",
         "panel.focused_border": "#d8dde3",
         "pane.focused_border": "#d8dde3",
@@ -552,24 +552,24 @@
             "font_weight": null
           },
           "string.regex": {
-            "color": "#fbda78",
+            "color": "#d9b23d",
             "font_style": null,
             "font_weight": null
           },
           "string.special": {
-            "color": "#fbda78",
+            "color": "#d9b23d",
             "font_style": null,
             "font_weight": 600
           },
           "string.special.symbol": {
-            "color": "#fbb778",
+            "color": "#d9b23d",
             "font_style": null,
             "font_weight": 700
           },
           "strong": {
             "color": "#1ED0BF",
             "font_style": "italic",
-            "font_weight": 600
+            "font_weight": 500
           },
           "symbol": {
             "color": "#F88C79",
