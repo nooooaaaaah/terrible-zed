@@ -249,22 +249,22 @@
             "font_weight": 400
           },
           "string.escape": {
-            "color": "#f5d575",
+            "color": "#594403",
             "font_style": null,
             "font_weight": null
           },
           "string.regex": {
-            "color": "#fbda78",
+            "color": "#594403",
             "font_style": null,
             "font_weight": null
           },
           "string.special": {
-            "color": "#fbcd78",
+            "color": "#594403",
             "font_style": null,
             "font_weight": 600
           },
           "string.special.symbol": {
-            "color": "#fbb778",
+            "color": "#594403",
             "font_style": null,
             "font_weight": 700
           },
