@@ -1,4 +1,6 @@
-![go example](https://i.imgur.com/5A4C0y2.png)
+| Image 1 | Image 2 |
+|---------|---------|
+| ![First Image](https://imgur.com/G7F2T9r.png) | ![Go Example](https://i.imgur.com/5A4C0y2.png) |
 
 # My Theme for Zed
 
